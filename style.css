@@ -1,0 +1,35 @@
+ {
+    outline: 2px solid red;
+}
+#button {
+    background-color: rgb(31, 11, 146);
+    color: white;
+    font-size: 50px;
+    margin: 10px;
+}
+.title {
+    font-size:200px;
+    color: rgb(241, 23, 23);
+    font-weight: bolder;
+    text-align: center;
+    margin: 2px;
+}
+.aa {
+    background-color: #443d3d;
+}
+ul {
+    display:inline-block;
+    list-style:square;
+    padding: 10px;
+    margin: 5px;
+  }
+.para {
+    margin:2px;   
+}
+.steps {
+    padding: 5px;
+}
+.recpage {
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
